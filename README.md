@@ -10,7 +10,7 @@ This is a web application that allows users to upload an image containing a QR c
 ### Installation
  Clone the repository:
 
-     git clone https://github.com/yourusername/Decode-QR.git
+     git clone https://github.com/prajjawal-kansara/Decode-QR.git
      cd Decode-QR
  
 ### Install the required dependencies:
